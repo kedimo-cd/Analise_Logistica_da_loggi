@@ -62,10 +62,13 @@ O Objetivo desta etapa foi analisar os dados para gerar insights. Para isso, for
 
 # 7. Insights gerados
 
-1. As **entregas** estão corretamente alocadas aos seus respectivos **hubs**;
-2. Os **hubs** das regiões 0 e 2 fazem **entregas** em locais distantes do centro e entre si, o que pode gerar um tempo e preço de entrega maior.
-3. A distribuição das **entregas** está muito concentrada nos **hubs** das regiões 1 e 2, mas pouco no da região 0. Contudo a capacidade dos veículos é mesma para todos os **hubs**, logo os **veículos** poderiam ser deslocados para as regiões de maior tráfego.
+- As **entregas** estão corretamente alocadas aos seus respectivos **hubs**;
+
+- Os **hubs** das regiões 0 e 2 fazem **entregas** em locais distantes do centro e entre si, o que pode gerar um tempo e preço de entrega maior.
+
+- A distribuição das **entregas** está muito concentrada nos **hubs** das regiões 1 e 2, mas pouco no da região 0. Contudo a capacidade dos veículos é mesma para todos os **hubs**, logo os **veículos** poderiam ser deslocados para as regiões de maior tráfego.
 
 # 8. Contato
+
 Este projeto foi inteiramente desenvolvido por mim com base nos conceitos ensinados no curso Formação analista de Dados EBAC. Fique a vontade para entrar em contato comigo através do meu LinkedIN.
 Conecte-se comigo no meu [Linkedin](https://www.linkedin.com/in/k%C3%A9dimo-alc%C3%A2ntara-4371ab234/).
