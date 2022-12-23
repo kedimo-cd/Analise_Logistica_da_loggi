@@ -1,2 +1,2 @@
-# Análise Exploratória de Dados Logistica da Loggi
+# Análise Exploratória de Dados Logística da Loggi
 
