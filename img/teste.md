@@ -1,2 +1,0 @@
-# fgsdafaasdf
-kedimo ked
