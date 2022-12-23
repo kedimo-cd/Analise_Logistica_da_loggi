@@ -70,5 +70,5 @@ O Objetivo desta etapa foi analisar os dados para gerar insights. Para isso, for
 
 # 8. Contato
 
-Este projeto foi inteiramente desenvolvido por mim com base nos conceitos ensinados no curso Formação analista de Dados EBAC. Fique a vontade para entrar em contato comigo através do meu LinkedIN.
+Este projeto foi inteiramente desenvolvido por mim com base nos conceitos ensinados no curso Formação Analista de Dados EBAC. Fique a vontade para entrar em contato comigo através do meu LinkedIN.
 Conecte-se comigo no meu [Linkedin](https://www.linkedin.com/in/k%C3%A9dimo-alc%C3%A2ntara-4371ab234/).
