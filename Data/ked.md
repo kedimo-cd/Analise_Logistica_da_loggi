@@ -1,2 +1,0 @@
-# fdhasdjfkjsd
-foi eu mesmo
